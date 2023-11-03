@@ -34,7 +34,7 @@ const Settings: LayoutSettings & {
   fixedHeader: false,
   fixSiderbar: true,
   colorWeak: false,
-  title: 'Dinky Real-time Platform ',
+  title: 'Data Computing Platform ',
   pwa: false,
   logo: 'dinky.svg',
   iconfontUrl: '',

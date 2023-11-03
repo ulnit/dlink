@@ -81,7 +81,7 @@
         <maven.resource.version>3.2.0</maven.resource.version>
         <maven.clean.version>3.2.0</maven.clean.version>
         <junit.version>4.12</junit.version>
-        <protobuf-java.version>2.5.0</protobuf-java.version>
+        <protobuf-java.version>3.21.2</protobuf-java.version>
         <jedis.version>2.9.0</jedis.version>
         <javax.mail>1.6.2</javax.mail>
         <poi.version>4.1.2</poi.version>
