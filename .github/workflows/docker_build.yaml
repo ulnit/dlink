@@ -73,7 +73,7 @@ jobs:
           - url: registry.cn-hongkong.aliyuncs.com
             namespace: xlaby
           - url: docker.io
-            namespace: xlaby
+            namespace: ulnit
     steps:
       - uses: actions/checkout@v3
       - name: Log in to the Container registry,url -> ${{ matrix.url }}
@@ -111,7 +111,7 @@ jobs:
           - url: registry.cn-hongkong.aliyuncs.com
             namespace: xlaby
           - url: docker.io
-            namespace: xlaby
+            namespace: ulnit
     steps:
       - uses: actions/checkout@v3
       - name: Download math result for job 1
@@ -157,7 +157,7 @@ jobs:
           - url: registry.cn-hongkong.aliyuncs.com
             namespace: xlaby
           - url: docker.io
-            namespace: xlaby
+            namespace: ulnit
           - FLINK_VERSION: 1.11.6
             FLINK_BIG_VERSION: 1.11
             FLINK_SINGLE_VERSION: 11
